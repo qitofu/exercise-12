@@ -13,30 +13,36 @@ html {
 }
 
 main {
-margin: 40px;
+margin: 100px;
 }
 
-header {
+header { 
 font-family: "Josefin Sans", sans-serif;
+  width: 100%;
+  position: fixed;
   justify-content: flex-end;
   display: flex;
   align-items: center;
-  height: 60px;
-  padding: 15px;
-  margin: 0 10px;
+  height: 100px;
+  padding: 50px;
+  background-color: #98A871;
+  top: 0px;
+  font-size: 20px;
 
 }
 
 .mainh1 {
     margin-bottom: 40px;
     font-size: 62px;
+  margin-top: 170px;
   }
 .mainh2{
   line-height: 1.2em;
   font-size: 28px;
 	  }
+
  a {
-   color:#2D3645;  
+   color:#F2F2F2;  
    text-decoration: none;
   }
   nav a {
@@ -45,5 +51,6 @@ font-family: "Josefin Sans", sans-serif;
   }
   
   nav a:hover {
-   color: #C9AC81
+   color: #FFD0A6;
   }
+
