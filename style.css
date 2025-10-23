@@ -61,8 +61,18 @@ font-family: "Josefin Sans", sans-serif;
 .meetteam h2 {
   font-size: 22px;
   
-.ourteam ;
-  
   
 }
 
+.meetteam {
+  font-size: 28px;
+  text-align: center;
+  display: flex;
+  height: 600px;
+  
+}
+
+.cat 1 {
+  flex: 1 20px;
+  padding-top: 30px;
+  background-image: url("https://images.saymedia-content.com/.image/t_share/MTc0NDU3MDAzODY1ODEwMjgw/neko-atsume-character-profile-snowball.png");
