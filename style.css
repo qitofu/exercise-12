@@ -35,10 +35,14 @@ font-family: "Josefin Sans", sans-serif;
     margin-bottom: 40px;
     font-size: 62px;
   margin-top: 170px;
+  font-family: "Josefin Sans", sans-serif;
+
   }
 .mainh2{
   line-height: 1.2em;
   font-size: 28px;
+  margin-bottom: 250px;
+  
 	  }
 
  a {
@@ -53,4 +57,12 @@ font-family: "Josefin Sans", sans-serif;
   nav a:hover {
    color: #FFD0A6;
   }
+
+.meetteam h2 {
+  font-size: 22px;
+  
+.ourteam ;
+  
+  
+}
 
