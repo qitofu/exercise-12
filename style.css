@@ -27,6 +27,14 @@ font-family: "Josefin Sans", sans-serif;
 
 }
 
+.mainh1 {
+    margin-bottom: 40px;
+    font-size: 62px;
+  }
+.mainh2{
+  line-height: 1.2em;
+  font-size: 28px;
+	  }
  a {
    color:#2D3645;  
    text-decoration: none;
