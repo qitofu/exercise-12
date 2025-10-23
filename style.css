@@ -68,11 +68,52 @@ font-family: "Josefin Sans", sans-serif;
   font-size: 28px;
   text-align: center;
   display: flex;
-  height: 600px;
+  height: 400px;
   
 }
 
-.cat 1 {
-  flex: 1 20px;
-  padding-top: 30px;
-  background-image: url("https://images.saymedia-content.com/.image/t_share/MTc0NDU3MDAzODY1ODEwMjgw/neko-atsume-character-profile-snowball.png");
+
+.meetteam {
+  font-size: 28px;
+  text-align: center;
+  display: flex;
+  height: 340px;
+  
+}
+
+.meetteam > * {
+background-color: #F2F2F2;
+}
+
+.meetteam {
+display: flex;
+  gap: 10px;
+}
+.catone{
+  width: 300px;
+	flex: 1 1 auto;
+}
+.catone{
+  width: 400px;
+	flex: 1 1 auto;
+  background-image: url("https://s2982.pcdn.co/wp-content/uploads/2016/02/Neko-Atsume-Cat-Snowball.jpg.optimal.jpg");
+  background-size: cover;
+
+  
+}
+.cattwo{
+  width: 400px;
+	flex: 1 1 auto;
+}
+.catthree{
+  width: 400px;
+	flex: 1 1 auto;
+}
+.catfour{
+  width: 400px;
+	flex: 1 1 auto;
+}
+.catfive{
+  width: 400px;
+	flex: 1 1 auto;
+}
