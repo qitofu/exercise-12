@@ -18,4 +18,9 @@ margin: 40px;
 
 header {
 font-family: "Josefin Sans", sans-serif;
-}
+  justify-content: flex-end;
+  display: flex;
+  align-items: center;
+  height: 60px;
+  padding: 15px;
+  margin: 0 10px;
