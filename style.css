@@ -40,7 +40,7 @@ font-family: "Josefin Sans", sans-serif;
   }
 .mainh2{
   line-height: 1.2em;
-  font-size: 28px;
+  font-size: 22px;
   margin-bottom: 250px;
   
 	  }
@@ -58,36 +58,21 @@ font-family: "Josefin Sans", sans-serif;
    color: #FFD0A6;
   }
 
-.meetteam h2 {
-  font-size: 22px;
-  
-  
+ h2 {
+  font-size: 28px;
+  margin-bottom: ;
 }
 
+
 .meetteam {
-  font-size: 28px;
+  font-size: 22px;
   text-align: center;
   display: flex;
   height: 400px;
-  
-}
-
-
-.meetteam {
-  font-size: 28px;
-  text-align: center;
-  display: flex;
-  height: 340px;
-  
-}
-
-.meetteam > * {
-background-color: #F2F2F2;
-}
-
-.meetteam {
-display: flex;
+  background-color: #F2F2F2;
   gap: 5px;
+ 
+
 }
 
 .catone{
@@ -95,6 +80,8 @@ flex: 1 1 auto;
   background-image: url("https://static.wikia.nocookie.net/nekoatsume/images/3/3b/Album_Snowball.png");
   background-position: center;
   background-repeat: no-repeat;
+  padding-top: 80px;
+  
 }
 
 .cattwo{
@@ -102,6 +89,7 @@ flex: 1 1 auto;
   background-image: url("https://static.wikia.nocookie.net/nekoatsume/images/8/86/Album_Misty.png");
   background-position: center;
   background-repeat: no-repeat;
+  padding-top: 80px;
 }
 
 .catthree{
@@ -109,6 +97,7 @@ flex: 1 1 auto;
   background-image: url("https://static.wikia.nocookie.net/nekoatsume/images/9/9b/Album_Pumpkin.png");
   background-position: center;
   background-repeat: no-repeat;
+  padding-top: 80px;
 }
 
 .catfour{
@@ -116,6 +105,7 @@ flex: 1 1 auto;
   background-image: url("https://static.wikia.nocookie.net/nekoatsume/images/6/64/Album_Gozer.png");
   background-position: center;
   background-repeat: no-repeat;
+  padding-top: 80px;
 }
 
 .catfive{
@@ -123,4 +113,5 @@ flex: 1 1 auto;
   background-image: url("https://static.wikia.nocookie.net/nekoatsume/images/8/8d/Album_Socks.png/");
   background-position: center;
   background-repeat: no-repeat;
+  padding-top: 80px;
 }
