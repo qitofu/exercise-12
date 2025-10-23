@@ -94,12 +94,12 @@ display: flex;
 	flex: 1 1 auto;
 }
 .catone{
-  width: 400px;
-	flex: 1 1 auto;
+  width: auto;
+   flex: 1 1 auto;
   background-image: url("https://s2982.pcdn.co/wp-content/uploads/2016/02/Neko-Atsume-Cat-Snowball.jpg.optimal.jpg");
-  background-size: cover;
+  background-size: no-repeat;
+  background-position: center;
 
-  
 }
 .cattwo{
   width: 400px;
