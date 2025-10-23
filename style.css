@@ -115,3 +115,23 @@ flex: 1 1 auto;
   background-repeat: no-repeat;
   padding-top: 80px;
 }
+
+.projects {
+  display: flex;
+  justify-content: space-between
+  width: 50%;
+  height: 300px;
+}
+
+.container {
+  width: 33%;
+}
+
+
+.container p {
+  font-size: 4rem;
+  position: relative;
+  top: -45px;
+  height: 15%;
+}
+
