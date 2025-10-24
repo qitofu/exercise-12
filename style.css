@@ -180,6 +180,7 @@ footer {
 	display: flex;
 	justify-content: space-between;
 	align-items: flex-start;
+    width: 100%;
 }
 
 .footerlinks {
@@ -197,7 +198,7 @@ footer {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
-	align-items: flex-end
+	align-items: flex-end;
 }
 
 .copyright {
