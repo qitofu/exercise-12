@@ -126,6 +126,13 @@ h2 {
 
 }
 
+.projecttext {
+  display: flex;
+	justify-content: center;
+	padding-top: 370px;
+	font: 22px;
+}
+
 .projectone {
 	width: 450px;
 	height: 400px;
