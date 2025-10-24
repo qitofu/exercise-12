@@ -116,22 +116,24 @@ flex: 1 1 auto;
   padding-top: 80px;
 }
 
-.projects {
+.theprojects {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between
-  width: 50%;
-  height: 300px;
+  width: 450px;
+  font-size: 22px;
+  
 }
 
 .container {
-  width: 33%;
+   width: 450px;
+  height: 600px;
+  padding: 40px;
+  border-radius: 10px;
+  flex: 1 1 200px;
 }
 
-
-.container p {
-  font-size: 4rem;
-  position: relative;
-  top: -45px;
-  height: 15%;
+.projectone {
+  background-image: url("https://static.wikia.nocookie.net/nekoatsume/images/6/64/Album_Gozer.png");
+  
 }
-
