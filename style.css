@@ -60,7 +60,7 @@ font-family: "Josefin Sans", sans-serif;
 
  h2 {
   font-size: 28px;
-  margin-bottom: ;
+  margin-bottom: 40px;
 }
 
 
@@ -118,22 +118,40 @@ flex: 1 1 auto;
 
 .theprojects {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between
-  width: 450px;
+  justify-content: space-between;
+  width: auto;
   font-size: 22px;
-  
-}
-
-.container {
-   width: 450px;
-  height: 600px;
-  padding: 40px;
-  border-radius: 10px;
-  flex: 1 1 200px;
+ 
 }
 
 .projectone {
-  background-image: url("https://static.wikia.nocookie.net/nekoatsume/images/6/64/Album_Gozer.png");
-  
+   width: 450px;
+  height: 400px;
+  padding: 40px;
+  border-radius: 10px;
+  background-image: url("https://i.pinimg.com/1200x/4a/1d/b0/4a1db0cbda9cb7efacaa03942105bf24.jpg");
+  background-position: center;
+  background-size: cover;
+ 
 }
+
+.projecttwo {
+   width: 450px;
+  height: 400px;
+  padding: 40px;
+  border-radius: 10px;
+  background-image: url("https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/3780130/neko1.png");
+  background-position: center;
+  background-size: cover;
+}
+
+ .projectthree {
+   width: 450px;
+  height: 400px;
+  padding: 40px;
+  border-radius: 10px;
+  background-image: url("https://ih1.redbubble.net/image.186542100.5148/st,small,507x507-pad,600x600,f8f8f8.u11.jpg");
+  background-position: center;
+  background-size: cover;
+    
+  }
