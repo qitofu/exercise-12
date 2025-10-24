@@ -54,7 +54,7 @@ font-family: "Josefin Sans", sans-serif;
     
   }
   
-  nav a:hover {
+  a:hover {
    color: #FFD0A6;
   }
 
@@ -155,3 +155,62 @@ flex: 1 1 auto;
   background-size: cover;
     
   }
+footer {
+  width: 100%;
+  height: 300px;
+  background-color: #98A871;  
+  padding:  50px 100px;
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+
+
+}
+.footer a {
+  display: inline-block;
+  width: 200px;
+  height: 30px;
+ 
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.footerlinks {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  height: 80px;
+  width: 300px;
+ 
+}
+
+.footerelements {
+  padding-top: 9px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end
+  
+    
+}
+.copyright {
+  text-align: right;
+}
+
+.ctabutton {
+  padding: 15px;
+  background: #F2F2F2;
+  color: #2D3645;
+  font-family: Libo, sans-serif;
+  border-radius: 20px;
+  display: flex;
+  align-items: flex-end;
+  border: none;
+}
