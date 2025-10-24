@@ -36,6 +36,8 @@ header {
 	font-size: 62px;
 	margin-top: 170px;
 	font-family: "Josefin Sans", sans-serif;
+    line-height: 1.2em;
+
 
 }
 
@@ -178,8 +180,7 @@ footer {
 
 
 .footer a {
-	display: inline-block;
-	width: 200px;
+    display: inline-block;
 	height: 30px;
 
 }
